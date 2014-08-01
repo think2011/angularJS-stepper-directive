@@ -24,4 +24,4 @@ angularjs 步进器
 > ##### 技术： angularjs + coffeescript
 > ##### 时间： 2014年8月
 > ##### 源码： [angularJS-stepper-directive](https://github.com/think2011/angularJS-stepper-directive)
-> ##### 博客： [think2011](think2011.github.io)
+> ##### 博客： [think2011](http://think2011.github.io)
